@@ -1,9 +1,1 @@
-### Hi there 👋
-
-
-  
-<img src="https://github-readme-stats.vercel.app/api?username=iLapaa&&show_icons=true&title_color=00d7ff&icon_color=00d7ff&text_color=daf7dc&bg_color=151515">
-
-
-<!--
-**iLapaa/iLapaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
