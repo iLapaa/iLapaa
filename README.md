@@ -12,13 +12,23 @@
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"><b> Skills</b>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
+<br>
+<br>
+<br>
+
+[![skillicons-dark](https://skillicons.dev/icons?i=html,css,js,react,mysql,bootstrap,nodejs,php,git&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![skillicons-white](https://skillicons.dev/icons?i=html,css,js,react,mysql,bootstrap,nodejs,php,git&theme=white#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+<br>
+
+## ‎ 
 
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img width ="200" src="https://skillicons.dev/icons?i=html,css,js,react,mysql" />
-  </a>
-</p>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+
 
 <details>
 <summary>Credits</summary>
