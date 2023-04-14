@@ -18,7 +18,7 @@
 <br>
 
 [![skillicons-dark](https://skillicons.dev/icons?i=html,css,js,react,mysql,bootstrap,nodejs,php,git&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![skillicons-white](https://skillicons.dev/icons?i=html,css,js,react,mysql,bootstrap,nodejs,php,git&theme=white#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![skillicons-light](https://skillicons.dev/icons?i=html,css,js,react,mysql,bootstrap,nodejs,php,git&theme=light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <br>
 
