@@ -6,9 +6,11 @@
 - I am 20 years old and currently i live in Porto, Portugal
 - Always ready to improve my knowledge and expand my skills
 <p align="center">
+  
 <a href="https://www.linkedin.com/in/emanuel-lapa-161464236/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
+  <a href="https://github.com/iLapaa" target="_blank" rel="noreferrer"> <img alt="iLapaa's portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"><b> Skills</b>
@@ -25,8 +27,8 @@
 ## ‎ 
 
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide_border=true&bg_color=00000000&text_color=FFFFFF&icon_color=3919bb&title_color=3919bb&hide_title=true&theme=dark#gh-dark-mode-only)](https://github.com/iLapaa/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide_border=true&bg_color=00000000&text_color=000000&icon_color=3919bb&title_color=3919bb&hide_title=true&theme=default#gh-light-mode-only)](https://github.com/iLapaa/github-readme-stats#gh-light-mode-only)
 
 
 
@@ -43,10 +45,3 @@ Huge thanks to this amazing repos for giving me inspiration to make my beautiful
   
 > - for the amazing [skill icons](https://github.com/tandpfun/skill-icons)
 </details>
-
-
-<h4>
-<h4 align="left">  
- 
-[dark](https://github.com/settings/appearance#gh-dark-mode-only)[light](https://github.com/settings/appearance#gh-light-mode-only)
-<h4>
