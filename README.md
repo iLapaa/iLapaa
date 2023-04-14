@@ -27,8 +27,8 @@
 ## ‎ 
 
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide_border=true&bg_color=00000000&text_color=FFFFFF&icon_color=3919bb&title_color=3919bb&hide_title=true&theme=dark#gh-dark-mode-only)](https://github.com/iLapaa/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide_border=true&bg_color=00000000&text_color=000000&icon_color=3919bb&title_color=3919bb&hide_title=true&theme=default#gh-light-mode-only)](https://github.com/iLapaa/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ilapaa&show_icons=true&hide_border=true&bg_color=00000000&text_color=FFFFFF&icon_color=3919bb&title_color=3919bb&hide_title=true&theme=dark#gh-dark-mode-only)](https://github.com/iLapaa/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ilapaa&show_icons=true&hide_border=true&bg_color=00000000&text_color=000000&icon_color=3919bb&title_color=3919bb&hide_title=true&theme=default#gh-light-mode-only)](https://github.com/iLapaa/github-readme-stats#gh-light-mode-only)
 
 
 
