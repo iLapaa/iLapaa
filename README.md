@@ -3,7 +3,7 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25"> Helloo, I am Emanuel Lapa.
 
 - I am a junior full-stack developer more focused in Front-end for now
-- I am 20 years old and currently i live in Porto, Portugal
+- I am 20 years old and currently living in Porto, Portugal
 - Always ready to improve my knowledge and programming skills
 <p align="center">
   
