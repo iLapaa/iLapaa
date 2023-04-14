@@ -4,7 +4,7 @@
 
 - I am a junior full-stack developer more focused in Front-end for now
 - I am 20 years old and currently i live in Porto, Portugal
-- Always ready to improve my knowledge and expand my skills
+- Always ready to improve my knowledge and programming skills
 <p align="center">
   
 <a href="https://www.linkedin.com/in/emanuel-lapa-161464236/" target="_blank">
